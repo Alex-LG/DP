@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilities", "Behavior\ChainOfResponsibilities.csproj", "{1B72F42A-8C10-418F-9600-F6F7AB58F96B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.csproj", "{E9B7B02F-7233-463C-9558-0560D8799C33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1B72F42A-8C10-418F-9600-F6F7AB58F96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B72F42A-8C10-418F-9600-F6F7AB58F96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B72F42A-8C10-418F-9600-F6F7AB58F96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B7B02F-7233-463C-9558-0560D8799C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B7B02F-7233-463C-9558-0560D8799C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B7B02F-7233-463C-9558-0560D8799C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B7B02F-7233-463C-9558-0560D8799C33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
